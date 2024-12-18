@@ -1,4 +1,4 @@
-## 👋 Hi, I’m @oleksii2024
+## 👋 Hi, I’m Oleksii
 - 👀 I’m interested in 
 - devops
 - kubernetes
