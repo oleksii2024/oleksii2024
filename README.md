@@ -7,7 +7,7 @@
 - Linux
 - Clouds (Azure/GCP)
 
-and the themes around them...
+and the other themes around them...
 
 
 <!--
