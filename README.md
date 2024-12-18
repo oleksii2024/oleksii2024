@@ -1,6 +1,6 @@
 ##  Hi, I’m Oleksii 👋
 👀 I’m interested in 
-- devops
+- devops/mlops
 - kubernetes
 - terraform
 - python
