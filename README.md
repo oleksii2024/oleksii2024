@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m @oleksii2024
-- 👀 I’m interested in devops, kubernetes, terraform, python
+- 👀 I’m interested in 
 - devops
 - kubernetes
 - terraform
