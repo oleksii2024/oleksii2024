@@ -5,6 +5,7 @@
 - Terraform
 - Python
 - Linux
+- Clouds (Azure/GCP)
 
 and the themes around them...
 
