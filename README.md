@@ -1,4 +1,10 @@
-## Hi there 👋
+## 👋 Hi, I’m @oleksii2024
+- 👀 I’m interested in devops, kubernetes, terraform, python
+- devops
+- kubernetes
+- terraform
+- python
+
 
 <!--
 **oleksii2024/oleksii2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
